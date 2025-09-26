@@ -1,0 +1,14 @@
+# virtual environments
+.venv*/
+venv*/
+
+# bytecode
+__pycache__/
+*.pyc
+
+# model artifacts
+saved_model/
+*.keras
+
+# OS / IDE files
+.DS_Store
